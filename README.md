@@ -2,7 +2,7 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://telegra.ph/file/c4ecaecf09a1c68a2dbc4.jpg?template=https://telegra.ph/file/c4ecaecf09a1c68a2dbc4.jpg)
 
 # Bots Pics
-![image](https://telegra.ph/file/70de1dcbbb4edf0965302.jpg)
+![image](https://telegra.ph/file/70de1dcbbb4edf0965302.jpg),
 ![image](https://telegra.ph/file/1bde95689b117d8820219.jpg)
 ![image](https://telegra.ph/file/d49201acd16adb62953fa.jpg)
 ![image](https://telegra.ph/file/b99e551beee6469ff3f3e.jpg)
